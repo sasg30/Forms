@@ -1,0 +1,22 @@
+body {
+    background: url("../Somth/background.jpg");
+  color: white;
+}
+A {
+  color: white;
+}
+A:visited{
+  color: white;
+}
+A:active{
+  color: white;
+}
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-color: white;
+}
+  th, td {
+      padding: 15px;
+    }
+}
